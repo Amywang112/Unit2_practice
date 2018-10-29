@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Nim
+comment0.text=\n\ Nim\ is\ a\ \n\n\ @author\ (Liz\ and\ Amy)\n\ @version\ (10/23/17)\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=input
+comment2.target=int\ removeStick(int)
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PracticeCh5P1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=fred\ bob
+comment2.target=void\ zoop(java.lang.String,\ int)
+comment3.params=fork
+comment3.target=void\ clink(int)
+comment4.params=strangStrung
+comment4.target=void\ ping(java.lang.String)
+numComments=5

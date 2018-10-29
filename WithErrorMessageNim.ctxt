@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WithErrorMessageNim
+comment0.text=\n\ Nim\ is\ a\ game\ that\ proceeds\ as\ following\:\n\ 1.An\ assigned\ number\ of\ sticks\ (>\=\ 1)\ are\ placed\ in\ a\ row.\n\ 2.Two\ players\ alternate\ turns\ picking\ up\ one\ or\ two\ sticks.\n\ 3.The\ player\ who\ picks\ up\ the\ last\ stick\ loses.\n\ \n\ The\ user\ can\ choose\ to\ play\ with\ another\ player\ or\ AI.\n\n\ @author\ Liz\ and\ Amy\n\ @version\ 10/29/17\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=input
+comment2.target=void\ removeStick(int)
+comment3.params=input
+comment3.target=void\ inputVerify(int)
+numComments=4

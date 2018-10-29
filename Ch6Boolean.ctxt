@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ch6Boolean
+comment1.params=n\ m
+comment1.target=boolean\ isDivisible(int,\ int)
+comment2.params=x\ y\ z
+comment2.target=boolean\ isTriangle(int,\ int,\ int)
+numComments=3
